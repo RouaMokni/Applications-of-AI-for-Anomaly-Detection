@@ -1,5 +1,7 @@
 Applications-of-AI-for-Anomaly-Detection - Deep Learning Institute
-you will learn:
+
+**you will learn:**
+
 🔹 Supervised Learning
 
 Preparing datasets for GPU acceleration
